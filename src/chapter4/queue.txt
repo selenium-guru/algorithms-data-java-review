@@ -1,0 +1,12 @@
+/*
+
+The word queue is British for line (the kind you wait in).
+ In Britain, to “queue up” means to get in line.
+ In computer science a queue is a data structure that is somewhat like a stack, except that in a queue the first item inserted is
+ the first to be removed (First-In-First-Out, FIFO),
+ while in a stack, as we've seen, the last item inserted is the first to be removed (LIFO).
+ A queue works like the line at the movies: The first person to join the rear of the line is the first person to reach
+ the front of the line and buy a ticket.
+ The last person to line up is the last person to buy a ticket (or—if the show is sold out—to fail to buy a ticket).
+
+Lafore, Robert. Data Structures & Algorithms in Java (Kindle Locations 1632-1636). Pearson HE, Inc.. Kindle Edition.
