@@ -2,9 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="728a0022-204d-4a99-8dfe-f76419e7e09b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/chapter5/FindBinaryNumber.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/chapter6/Anagram.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/BankAccount.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/BankApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/baseballDatabase.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter2/ClassDataApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter2/ClassDataArray.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter2/HighArray.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter2/HighArrayApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter2/LowArray.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter2/LowArrayApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter2/OrdArray.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter2/OrderedApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter2/Person.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter3/ArrayBub.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter3/ArrayIns.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter3/ArraySel.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter3/BubbleSortApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter3/InsertSortApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter3/SelectSortApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/DuplicateString.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/PriorityQ.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/PriorityQApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/PriorityQT.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/PriorityQTApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/ReverseApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/ReverseString.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/Reverser.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/StackApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/StackL.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/StackX.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/StackY.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/StackZ.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/queue.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter4/stacks.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/FindBinaryNumber.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/FirstLastApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/FirstLastList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/Link.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/Link2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/Link3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/Link4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/Link5.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/Link6.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/Link7.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/LinkList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/LinkList2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/LinkList2App.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/LinkList3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/LinkList4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/LinkListApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/LinkQueue.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/LinkQueueApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/LinkStack.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/LinkStackApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/ListInsertionSortApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/SortedList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/SortedList2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter5/SortedListApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter6/AnagramApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter6/DArray.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter6/MergeApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter6/MergeSortApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter6/Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter6/Tree.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter6/TreeApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter6/factorial.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAlgorithms/chapter6/triangle.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/src/chapter5/SortedListApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="446">
-              <caret line="77" column="33" lean-forward="true" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+              <caret line="77" column="33" lean-forward="false" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
               <folding>
                 <element signature="e#193#194#0" expanded="true" />
                 <element signature="e#218#219#0" expanded="true" />
@@ -69,7 +132,7 @@
         <entry file="file://$PROJECT_DIR$/src/chapter6/triangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -89,7 +152,7 @@
         <entry file="file://$PROJECT_DIR$/src/chapter5/LinkListApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="52" column="31" lean-forward="true" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+              <caret line="52" column="31" lean-forward="false" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -99,7 +162,7 @@
         <entry file="file://$PROJECT_DIR$/src/chapter5/LinkList2App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-489">
-              <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+              <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -109,7 +172,7 @@
         <entry file="file://$PROJECT_DIR$/src/chapter5/FirstLastApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+              <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -119,7 +182,7 @@
         <entry file="file://$PROJECT_DIR$/src/chapter5/LinkStackApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="157">
-              <caret line="91" column="1" lean-forward="true" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+              <caret line="91" column="1" lean-forward="false" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -217,7 +280,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-33" />
+    <option name="x" value="34" />
     <option name="y" value="23" />
     <option name="width" value="1577" />
     <option name="height" value="1009" />
@@ -248,7 +311,7 @@
             <path>
               <item name="DataStructuresAlgorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructuresAlgorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -491,7 +554,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-33" y="23" width="1577" height="1009" extended-state="0" />
+    <frame x="34" y="23" width="1577" height="1009" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1126,7 +1189,7 @@
     <entry file="file://$PROJECT_DIR$/src/chapter5/LinkListApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="52" column="31" lean-forward="true" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+          <caret line="52" column="31" lean-forward="false" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1134,7 +1197,7 @@
     <entry file="file://$PROJECT_DIR$/src/chapter5/LinkList2App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-489">
-          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1142,7 +1205,7 @@
     <entry file="file://$PROJECT_DIR$/src/chapter5/FirstLastApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1150,7 +1213,7 @@
     <entry file="file://$PROJECT_DIR$/src/chapter5/LinkStackApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
-          <caret line="91" column="1" lean-forward="true" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+          <caret line="91" column="1" lean-forward="false" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1158,7 +1221,7 @@
     <entry file="file://$PROJECT_DIR$/src/chapter5/SortedListApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
-          <caret line="77" column="33" lean-forward="true" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+          <caret line="77" column="33" lean-forward="false" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
           <folding>
             <element signature="e#193#194#0" expanded="true" />
             <element signature="e#218#219#0" expanded="true" />
@@ -1199,7 +1262,7 @@
     <entry file="file://$PROJECT_DIR$/src/chapter6/triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
           <folding />
         </state>
       </provider>
