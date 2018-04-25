@@ -1,20 +1,23 @@
-package toptals;
+package InterviewQuestions;
 
-import java.util.LinkedHashSet;
-import java.util.Set;
-import java.util.Stack;
+import org.apache.commons.collections4.map.LinkedMap;
+
+import java.util.*;
 
 /**
  * Created by SeleniumGuru.com on 4/21/18.
  */
-public class findSumOfAllElements {
+public class findSmallestNumber {
 
     public static void main(String[] args){
         int[] myArr = {11, 4, 1, 7, 5,9,4};
+        int[] myArr2 = {1, 2, 3, 4};
         System.out.println("Max element in array is: " + findMax(myArr));
         System.out.println("Min element in array is: " + findMin(myArr));
         System.out.println("Even element in array is: " + findEvenNumber(myArr));
         System.out.println("Non Duplicate element in array is: " + findNonDuplicate(myArr));
+        System.out.println("Sum of all elements in array is: " + findSum(myArr));
+        System.out.println("Average of all elements in array is: " + findAverage(findSum(myArr), myArr.length));
     }
 
     public static int findMax(int[] arr){
@@ -62,4 +65,18 @@ public class findSumOfAllElements {
         return link;
     }
 
+    //Find sum
+    public static double findSum(int[] arr){
+        double sum = 0;
+        for (int i=0; i < arr.length; i++){
+            sum+= arr[i];
+        }
+        return Double.valueOf(sum);
+    }
+
+
+    //Find average
+    public static double findAverage(double sum, int size){
+        return (sum / size);
+    }
 }

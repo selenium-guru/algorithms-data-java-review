@@ -1,4 +1,4 @@
-package toptals;
+package InterviewQuestions;
 
 import java.util.ArrayList;
 import java.util.Arrays;
