@@ -1,5 +1,6 @@
 package InterviewQuestions;
 
+import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;
 import java.util.Stack;
@@ -55,7 +56,7 @@ public class findSumOfAllElements {
 
     //Find non duplicate
     public static Set<Integer> findNonDuplicate(int[] arr){
-        Set<Integer> link = new LinkedHashSet<Integer>();
+        Set<Integer> link = new HashSet<Integer>();
         for(int i=0; i<arr.length; i++){
             link.add(arr[i]);
         }
